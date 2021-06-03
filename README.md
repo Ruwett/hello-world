@@ -1,2 +1,3 @@
 # hello-world
-It's been a long time
+
+I like to learn new things and I have fun doing it!
